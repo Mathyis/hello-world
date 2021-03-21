@@ -1,2 +1,2 @@
 # hello-world
-First run/first touch of github.  How will you feel in a year after starting knowing nothing about this?
+First run/first touch of github.  First impression is "I am totally lost on this..."  Will have to re-assess that stance quarterly.
